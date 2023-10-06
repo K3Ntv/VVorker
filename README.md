@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @VVorker AKA Ken Rhoades
-- 👀 I’m interested in ... PYTHON & C++ programming 
+- 👋 Hi, I’m Ken Rhoades
+- 👀 I’m interested in ... PYTHON 
 - 🌱 I’m currently learning ... PYTHON
 - 💞️ I’m looking to collaborate on ... GUI in python [no active projects ]
 - 📫 How to reach me ... the.rhoades@outlook.com
